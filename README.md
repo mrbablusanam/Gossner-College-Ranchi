@@ -1,4 +1,4 @@
-readme_content = """# Gossner College Ranchi - Website Clone
+### "Gossner College Ranchi" ###
 
 Welcome to the **Gossner College Ranchi Website Clone** repository! 🎓 This project is a faithful replication of the official Gossner College Ranchi website, created using **HTML**, **CSS**, and **JavaScript**. It aims to showcase my web development skills while paying homage to my college's online presence.
 
