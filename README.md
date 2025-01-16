@@ -1,4 +1,3 @@
-# Saving the README content to a text file for the user to download
 readme_content = """# Gossner College Ranchi - Website Clone
 
 Welcome to the **Gossner College Ranchi Website Clone** repository! 🎓 This project is a faithful replication of the official Gossner College Ranchi website, created using **HTML**, **CSS**, and **JavaScript**. It aims to showcase my web development skills while paying homage to my college's online presence.
