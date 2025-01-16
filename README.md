@@ -58,7 +58,7 @@ This project serves as a practice for front-end development and is an effort to 
 - Understanding web development workflows.
 
 ## Contributions
--Contributions, issues, and feature requests are welcome! Feel free to open a pull request or submit an issue to improve the project.
+- Contributions, issues, and feature requests are welcome! Feel free to open a pull request or submit an issue to improve the project.
 
 
 # Thank you for visiting this repository! 😊 Feel free to explore and provide feedback. "
