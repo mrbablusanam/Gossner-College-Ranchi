@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,400&display=swap');
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.head {
+    display: flex;
+    width: 100%;
+    height: 120px;
+    background-color:rgb(255, 255, 255);
+    border: 1px solid #cfcad3e0;
+    box-shadow:  0px 1px 2px rgba(0, 0, 0, 0.9);
+
+}
+.college-logo img {
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.college-name-logo img{
+    width: 1000px;
+    height: 100px;
+    margin-top: 10px;
+    margin-right: 10px;
+    
+}
+
+.college-name-logo img{
+    margin-top: -140px;
+    margin-left: 400px;
+    width: 500px;
+    height: 400px;
+    margin-right: 10px;
+}
+.jublee-logo img{
+    margin-left: 400px;
+    margin-top: 10px;
+   width:100px;
+   height: 100px;
+}
